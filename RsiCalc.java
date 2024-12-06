@@ -10,7 +10,7 @@ public class RsiCalc
     private double avgU;
     private double avgD;
 
-    //Aarious arrayLists for data storage
+    //Various arrayLists for data storage
     private ArrayList<Double> data = new ArrayList<>();
     private ArrayList<Double> rsiArray = new ArrayList<>();
     private ArrayList<Double> avgUp = new ArrayList<>();
